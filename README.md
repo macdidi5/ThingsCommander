@@ -2,6 +2,10 @@
 
 # Things Commander
 
+## Demo video
+
+[https://youtu.be/qRGXE2Nel3k](https://youtu.be/qRGXE2Nel3k)
+
 ## Hardware and parts
 
 * [Raspberry Pi 3 - Model B - ARMv8 with 1G RAM](https://www.adafruit.com/products/3055) (with power supply and MicroSD)
@@ -55,6 +59,10 @@
     * thingscommander-f3f74-export.json: firebase realtime database export file
 
 # Things Commander(中文)
+
+## 示範影片
+
+[https://youtu.be/qRGXE2Nel3k](https://youtu.be/qRGXE2Nel3k)
 
 ## 硬體與零件
 
