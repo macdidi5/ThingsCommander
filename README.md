@@ -46,6 +46,14 @@
 * Can't control servo motor, because PWM can't work with preview 0.2, but preview 0.1 is fine.
 * Refer [Android Things Developer Preview 2 release notes](https://developer.android.com/things/preview/releases.html#developer_preview_2), especially Known Issues.
 
+## Contents
+
+* projects
+    * ThingsCommander: Android Things App
+    * ThingsCommanderApp: Android mobile App
+* resources
+    * thingscommander-f3f74-export.json: firebase realtime database export file
+
 # Things Commander(中文)
 
 ## 硬體與零件
@@ -91,3 +99,11 @@
 
 * 不能控制伺服馬達，因為PWM在preview 2不能運作，不過在preview 1卻沒有問題。
 * 參考 [Android Things Developer Preview 2 release notes](https://developer.android.com/things/preview/releases.html#developer_preview_2), 特別注意Known Issues的說明。
+
+## 內容
+
+* projects
+    * ThingsCommander: Android Things App
+    * ThingsCommanderApp: Android mobile App
+* resources
+    * thingscommander-f3f74-export.json: firebase即時資料庫匯出檔案
