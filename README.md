@@ -6,6 +6,8 @@
 
 [https://youtu.be/qRGXE2Nel3k](https://youtu.be/qRGXE2Nel3k)
 
+[https://youtu.be/zprp-rrPiHA](https://youtu.be/zprp-rrPiHA)
+
 ## Hardware and parts
 
 * [Raspberry Pi 3 - Model B - ARMv8 with 1G RAM](https://www.adafruit.com/products/3055) (with power supply and MicroSD)
