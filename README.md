@@ -4,9 +4,11 @@
 
 ## Demo video
 
-[https://youtu.be/qRGXE2Nel3k](https://youtu.be/qRGXE2Nel3k)
+[ThingsCommander demo](https://youtu.be/qRGXE2Nel3k)
 
-[https://youtu.be/zprp-rrPiHA](https://youtu.be/zprp-rrPiHA)
+[ThingsCommander demo - control lamp](https://youtu.be/zprp-rrPiHA)
+
+[ThingsCommander demo - doorbell](https://youtu.be/XOqffZ8ilCE)
 
 ## Hardware and parts
 
@@ -63,9 +65,11 @@
 
 ## 示範影片
 
-[https://youtu.be/qRGXE2Nel3k](https://youtu.be/qRGXE2Nel3k)
+[ThingsCommander 示範](https://youtu.be/qRGXE2Nel3k)
 
-[https://youtu.be/zprp-rrPiHA](https://youtu.be/zprp-rrPiHA)
+[ThingsCommander 示範 - 控制電燈](https://youtu.be/zprp-rrPiHA)
+
+[ThingsCommander demo - 門鈴](https://youtu.be/XOqffZ8ilCE)
 
 ## 硬體與零件
 
